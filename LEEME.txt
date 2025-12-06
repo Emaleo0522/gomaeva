@@ -1,0 +1,91 @@
+╔══════════════════════════════════════════════════════════════════╗
+║          CALCULADORA GOMA EVA - INSTRUCCIONES RÁPIDAS           ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📦 CONTENIDO DEL PAQUETE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ index.html           - Página principal
+✅ package.json         - Configuración del proyecto
+✅ vite.config.js       - Configuración de Vite
+✅ .gitignore           - Archivos para ignorar en Git
+✅ src/
+   ✅ App.jsx           - Calculadora completa
+   ✅ main.jsx          - Punto de entrada
+
+📖 GUIA-PASO-A-PASO.md - Lee esto primero
+📖 README.md            - Documentación completa
+
+
+🚀 INICIO RÁPIDO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPCIÓN 1: SUBIR A VERCEL (100% GRATIS)
+────────────────────────────────────────────────────────────────
+
+1. Abre GUIA-PASO-A-PASO.md
+2. Sigue las instrucciones paso a paso
+3. ¡Tu calculadora estará online en 5 minutos!
+
+   📍 No necesitas instalar nada en tu PC
+   📍 Funciona desde cualquier dispositivo
+   📍 Totalmente gratis para siempre
+
+
+OPCIÓN 2: PROBAR EN TU PC PRIMERO
+────────────────────────────────────────────────────────────────
+
+1. Instalar Node.js:
+   Descarga desde: https://nodejs.org
+   (Instala la versión LTS - recomendada)
+
+2. Abrir terminal en esta carpeta:
+   - Windows: Click derecho → "Abrir en Terminal"
+   - Mac: Click derecho → "Nuevo Terminal"
+
+3. Ejecutar estos comandos:
+   
+   npm install
+   npm run dev
+
+4. Abrir en navegador:
+   http://localhost:5173
+
+5. ¡Probar la calculadora!
+
+
+💡 FUNCIONALIDADES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Cálculo de cm² automático por formas geométricas
+✅ 8 formas: círculo, triángulo, cuadrado, pentágono, hexágono,
+   octágono, rectángulo, manual
+✅ Costos por items individuales
+✅ Precio por pieza individual
+✅ Precio total del trabajo
+✅ Márgenes mayorista/minorista personalizables
+✅ Guardar y cargar trabajos (localStorage)
+
+
+💰 COSTO TOTAL: $0 ARS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Vercel: GRATIS
+✅ GitHub: GRATIS
+✅ LocalStorage: GRATIS
+
+
+❓ ¿NECESITAS AYUDA?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Lee GUIA-PASO-A-PASO.md (instrucciones simples)
+2. Lee README.md (documentación técnica)
+3. Busca en Google cualquier error que aparezca
+
+
+🎯 PRÓXIMO PASO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👉 Abre: GUIA-PASO-A-PASO.md
+
+¡Éxito! 🎉🎨
